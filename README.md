@@ -6,8 +6,9 @@ The dashboard provides insights into customer behavior, seller performance, prod
 
 ## Dataset
 
-Source:
-Brazilian E-Commerce Public Dataset by Olist (Kaggle)
+The dataset used in this project is available on Kaggle:
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 The dataset contains information about:
 
@@ -69,3 +70,7 @@ Allows detailed exploration of revenue, customer behavior, and product category 
 - Revenue Trend Analysis
 - Category Performance Analysis
 - Seller and Customer Insights
+<img width="1099" height="605" alt="image" src="https://github.com/user-attachments/assets/f9e96aaf-3708-4db8-bde6-accdd87dc993" />
+<img width="1100" height="605" alt="image" src="https://github.com/user-attachments/assets/274a6710-2cb6-4eb6-ac19-7a99a7c7df9b" />
+<img width="1096" height="605" alt="image" src="https://github.com/user-attachments/assets/038d563f-c1f0-4a27-a53f-3495a79dfe1d" />
+<img width="1095" height="600" alt="image" src="https://github.com/user-attachments/assets/8746dbb5-59c1-4c77-bf3b-e928db57bf17" />
