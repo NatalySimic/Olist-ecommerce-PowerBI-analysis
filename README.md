@@ -4,6 +4,12 @@ This project presents a Business Intelligence dashboard developed in Power BI us
 
 The dashboard provides insights into customer behavior, seller performance, product categories, sales trends, and geographic distribution of e-commerce activities across Brazil between 2016 and 2018.
 
+## Power BI Dashboard File
+
+The PBIX file is available here:
+
+[https://drive.google.com/file/d/1lcGMvjY5_hI7W-Yp7p9a3m2FnjLi8EHq/view?usp=drive_link]
+
 ## Dataset
 
 The dataset used in this project is available on Kaggle:
